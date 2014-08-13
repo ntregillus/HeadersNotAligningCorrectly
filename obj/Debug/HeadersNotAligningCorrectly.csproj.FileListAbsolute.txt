@@ -1,0 +1,9 @@
+C:\Medrio\trunk\HeadersNotAligningCorrectly\HeadersNotAligningCorrectly\bin\Debug\HeadersNotAligningCorrectly.exe.config
+C:\Projects\HeadersNotAligningCorrectly\HeadersNotAligningCorrectly\bin\Debug\HeadersNotAligningCorrectly.exe.config
+C:\Projects\HeadersNotAligningCorrectly\HeadersNotAligningCorrectly\bin\Debug\HeadersNotAligningCorrectly.exe
+C:\Projects\HeadersNotAligningCorrectly\HeadersNotAligningCorrectly\bin\Debug\HeadersNotAligningCorrectly.pdb
+C:\Projects\HeadersNotAligningCorrectly\HeadersNotAligningCorrectly\bin\Debug\Aspose.Pdf.dll
+C:\Projects\HeadersNotAligningCorrectly\HeadersNotAligningCorrectly\bin\Debug\Aspose.Pdf.xml
+C:\Projects\HeadersNotAligningCorrectly\HeadersNotAligningCorrectly\obj\Debug\HeadersNotAligningCorrectly.csprojResolveAssemblyReference.cache
+C:\Projects\HeadersNotAligningCorrectly\HeadersNotAligningCorrectly\obj\Debug\HeadersNotAligningCorrectly.exe
+C:\Projects\HeadersNotAligningCorrectly\HeadersNotAligningCorrectly\obj\Debug\HeadersNotAligningCorrectly.pdb
